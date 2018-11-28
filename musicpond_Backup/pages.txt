@@ -1,0 +1,63 @@
+LEGEND
+
+-: Pop-up
+(M): Menu
+(B): Back Button
+[text]: Description
+
+PAGES
+
+Sign In Page
+Teacher or Student
+
+STUDENT MENU
+
+Home
+Profile
+Find Teacher
+Bookings
+Sign Out
+
+STUDENT PAGES
+
+Sign Up [I am a Student] (B)
+My Profile Set Up
+- Profile Photo Upload
+Set Up Complete
+Home Student View [Teacher of the Day] (M)
+Student Profile (M)
+Find A Teacher (M)
+Teacher Bio 1 [Bio] (M)
+Teacher Bio 2 [Lesson & Availability] (M)
+Teacher Bio 3 [Location] (M)
+Teacher Bio 4 [Video] (M)
+Lesson Booking (B)
+Would You Like To Book
+Booking Success
+My Bookings (M)
+
+TEACHER MENU
+
+Home
+Profile
+Availability
+Sign Out
+
+TEACHER PAGES
+
+Sign Up [I am a Teacher] (B)
+OkayPond Teacher
+Create Profile Teacher
+- Profile Photo Upload
+Set Up Complete
+Home Teacher View [Upcoming Lessons] (M)
+Student Profile (M)
+Teacher Profile 1 [Bio] (M)
+Edit Profile (M)
+- Edit Profile Gallery
+Teacher Profile 2 [Info] (M)
+Teacher Profile 3 [Map] (M)
+Teacher Profile 4 [Video] (M)
+Calendar (M)
+Confirm Availability
+Availability Success

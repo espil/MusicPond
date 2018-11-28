@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "532950490786",
+    "firebase_url": "https://musicpond-1ea26.firebaseio.com",
+    "project_id": "musicpond-1ea26",
+    "storage_bucket": "musicpond-1ea26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532950490786:android:0caec7bb19d7e0e4",
+        "android_client_info": {
+          "package_name": "musicpond.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532950490786-7hk4te1hgecof3huv81ru7kg7idlbafk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCokHJEeke72Ko2X9yZKteKRGymTai1sC0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
